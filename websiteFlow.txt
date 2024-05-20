@@ -1,0 +1,14 @@
+Designato Website
+
+Website of a design company based in Montana, USA.
+
+Fonts:
+
+	Headings: Trebuchet MS Bold
+	Text: Mulish
+
+Colors:
+
+	Background: #fdffff
+	Text: #4d2b2e
+	Effects.. :#d2b29d
